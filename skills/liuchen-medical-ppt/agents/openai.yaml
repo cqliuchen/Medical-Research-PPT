@@ -1,0 +1,4 @@
+interface:
+  display_name: "刘晨医学科研PPT工作流"
+  short_description: "组合文献核验、逐页提问、临床叙事、统一排版、原生编辑及演讲稿的个人工作流"
+  default_prompt: "使用 $liuchen-medical-ppt，先阅读材料并准备逐页内容，按提问流程与我确认主线和版面，保留科研原图、视频及备注，完成本次交付。"

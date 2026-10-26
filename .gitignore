@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+*.pptx
+*.docx
+*.pdf
+*.mp4
+*.avi
+*.mov
+*.key
+*.pem
+outputs/
+work/
